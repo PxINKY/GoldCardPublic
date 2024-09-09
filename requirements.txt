@@ -1,0 +1,4 @@
+maxembeds
+switchcase
+py-cord --pre
+cassiopeia
